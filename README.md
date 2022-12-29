@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vajpayeev
-- 👀 I’m interested in learning R, Python and SQL
-- 🌱 I’m currently practicing SQL and Python
+- 👀 I’m skilled in SQL, Advanced Excel, PowerBI, Tableau, R and Python.
+- 🌱 I’m currently practicing SQL, Excel and Python  for data analysis and creating dashboards in PowerBI and Excel.
 - 💞️ I’m looking to collaborate on health care, insurance and clinical research related data sets
 - 📫 How to reach me via email
 
